@@ -1,5 +1,7 @@
 <div align="center">
-  📣 **New**: Meet [mini](https://github.com/SWE-agent/mini-SWE-agent), the 100 line AI agent that still gets 65% on SWE-bench verified!
+  <p>
+    <b>📣 New:</b> Meet <a href="https://github.com/SWE-agent/mini-SWE-agent"><code>mini</code></a>, the 100 line AI agent that still gets 65% on SWE-bench verified!
+  </p>
   <div>
     <a href="https://github.com/SWE-agent/SWE-agent"><img src="sweagent_logo_text_below.svg" alt="SWE-agent" height="120px"></a>
     &nbsp;&nbsp;
