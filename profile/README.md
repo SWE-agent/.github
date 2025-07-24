@@ -28,6 +28,7 @@
 
   <details>
   <summary>More information about the projects</summary>
+  <div align="left">
   
   Main projects:
   
@@ -40,6 +41,8 @@
   
   * [SWE-ReX](https://github.com/SWE-agent/SWE-ReX), infrastructure supporting sandboxed code execution for AI agents
   * [sb-cli](https://github.com/SWE-bench/sb-cli), a command line interface for running evaluations on the cloud.
+  
+  </div>
   </details>
 </div>
 
