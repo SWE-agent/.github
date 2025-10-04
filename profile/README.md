@@ -10,7 +10,7 @@
     &nbsp;&nbsp;
     <a href="https://github.com/SWE-agent/SWE-ReX"><img src="swerex_logo_text_below.svg" alt="SWE-ReX" height="120px"></a>
     &nbsp;&nbsp;
-    <a href="https://github.com/SWE-agent/SWE-ReX"><img src="swesmith_logo_text_below.svg" alt="SWE-Smith" height="120px"></a>
+    <a href="https://github.com/SWE-bench/SWE-smith"><img src="swesmith_logo_text_below.svg" alt="SWE-Smith" height="120px"></a>
     &nbsp;&nbsp;
     <a href="https://github.com/SWE-bench/SWE-bench"><img src="swebench_logo_text_below.svg" alt="SWE-bench" height="120px"></a>
     &nbsp;&nbsp;
