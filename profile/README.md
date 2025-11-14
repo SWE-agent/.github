@@ -1,6 +1,7 @@
 <div align="center">
   <p>
-    <b>📣 New: Meet <a href="https://github.com/SWE-agent/mini-SWE-agent"><code>mini</code></a>, the 100 line AI agent that still gets 65% on SWE-bench verified!</b>
+    <b>📣 News: <a href="https://github.com/"><code>mini</code></a>, the 100 line AI agent that still gets 65% on SWE-bench verified!</b><br/>
+    <b>📣 New benchmark: <code>CodeClash</code> (<a href="https://codeclash.ai">website</a>, <a href="https://github.com/codeclash-ai/codeclash">github</a>) evaluates SWE agents on goals, not tasks</b>
   </p>
   <br/>
   <div>
@@ -13,6 +14,8 @@
     <a href="https://github.com/SWE-agent/SWE-ReX"><img src="swesmith_logo_text_below.svg" alt="SWE-Smith" height="120px"></a>
     &nbsp;&nbsp;
     <a href="https://github.com/SWE-bench/SWE-bench"><img src="swebench_logo_text_below.svg" alt="SWE-bench" height="120px"></a>
+    &nbsp;&nbsp;
+    <a href="https://github.com/codeclash-ai/codeclash"><img src="https://raw.githubusercontent.com/SWE-agent/swe-agent-media/refs/heads/main/media/logos_banners/codeclash_logo_text_below.svg" alt="codeclash logo" height="120px"></a>
     &nbsp;&nbsp;
     <a href="https://github.com/SWE-bench/sb-cli"><img src="sbcli_logo_text_below.svg" alt="sb-cli" height="120px"></a>
   </div>
